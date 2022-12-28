@@ -1,0 +1,1 @@
+{"name":"Local: Test4","url":"/home/moeen/Documents/Build/c++/Test/Test4.cpp","tests":[{"id":1654321495159,"input":"1\n3\n1 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/Test/Test4.cpp","group":"local","local":true}

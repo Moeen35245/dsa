@@ -1,0 +1,1 @@
+{"name":"Local: intersectionPointYShapedLL","url":"/home/moeen/Documents/Build/c++/LinkedList/intersectionPointYShapedLL.cpp","tests":[{"id":1643615775193,"input":"1\n3 1 2\n3 6 9\n10 \n15 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/LinkedList/intersectionPointYShapedLL.cpp","group":"local","local":true}

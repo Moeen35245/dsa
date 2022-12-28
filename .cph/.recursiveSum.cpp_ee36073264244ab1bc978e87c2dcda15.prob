@@ -1,0 +1,1 @@
+{"name":"Local: recursiveSum","url":"/home/moeen/Documents/Build/c++/recursiveSum.cpp","tests":[{"id":1641712251292,"input":"5","output":"15"},{"id":1641712291970,"input":"10","output":"55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/recursiveSum.cpp","group":"local","local":true}

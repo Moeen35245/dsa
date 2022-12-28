@@ -1,0 +1,9 @@
+Application of stacks
+
+1.Functional calls
+2.Checking fo balanced paranthesis
+3.Reversing Items
+4.Infix to prefix/postfix
+5.Evalution of prefix/postfix
+6.stock span problem and its vatiation
+7.Undo Redo or Forward backward

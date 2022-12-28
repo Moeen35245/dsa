@@ -1,0 +1,1 @@
+{"name":"Local: palString","url":"/home/moeen/Documents/Build/c++/palString.cpp","tests":[{"id":1641877370803,"input":"madam","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/palString.cpp","group":"local","local":true}

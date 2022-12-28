@@ -1,0 +1,1 @@
+{"name":"Local: recursiveFact","url":"/home/moeen/Documents/Build/c++/recursiveFact.cpp","tests":[{"id":1641712464886,"input":"3","output":"6"},{"id":1641712476929,"input":"0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/recursiveFact.cpp","group":"local","local":true}

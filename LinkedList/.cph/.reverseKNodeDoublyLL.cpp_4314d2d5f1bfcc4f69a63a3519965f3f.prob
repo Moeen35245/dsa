@@ -1,0 +1,1 @@
+{"name":"Local: reverseKNodeDoublyLL","url":"/home/moeen/Documents/Build/c++/LinkedList/reverseKNodeDoublyLL.cpp","tests":[{"id":1643530744980,"input":"1\n6 2\n1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/LinkedList/reverseKNodeDoublyLL.cpp","group":"local","local":true}

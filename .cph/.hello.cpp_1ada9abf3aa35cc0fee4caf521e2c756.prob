@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"/home/moeen/Documents/Build/c++/hello.cpp","tests":[{"id":1638450899839,"input":"5\n1 2 3 4 5","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/hello.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: reverseASentence","url":"/home/moeen/Documents/Build/c++/Stack/reverseASentence.cpp","tests":[{"id":1644041784656,"input":"hey, my name is moeen","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/Stack/reverseASentence.cpp","group":"local","local":true}

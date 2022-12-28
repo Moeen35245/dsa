@@ -1,0 +1,1 @@
+{"name":"Local: reverseString","url":"/home/moeen/Documents/Build/c++/reverseString.cpp","tests":[{"id":1641879481764,"input":"school","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/moeen/Documents/Build/c++/reverseString.cpp","group":"local","local":true}
