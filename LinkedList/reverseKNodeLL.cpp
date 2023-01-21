@@ -76,10 +76,10 @@ int main()
     insertAtTail(head, 3);
     insertAtTail(head, 4);
     insertAtTail(head, 5);
-    insertAtTail(head, 6);
+    // insertAtTail(head, 6);
 
     display(head);
-    node *revNode = recursiveK(head, 2);
+    node *revNode = recursiveK(head, 3);
     display(revNode);
 
     return 0;

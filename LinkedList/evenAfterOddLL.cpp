@@ -170,13 +170,13 @@ node *segregateEvenAndOdd(node *head)
 int main()
 {
     node *head = NULL;
+    insertAtTail(head, 2);
     insertAtTail(head, 1);
     insertAtTail(head, 3);
     insertAtTail(head, 5);
+    insertAtTail(head, 6);
+    insertAtTail(head, 4);
     insertAtTail(head, 7);
-    insertAtTail(head, 9);
-    insertAtTail(head, 11);
-    insertAtTail(head, 13);
 
     display(head);
     node *newHead = segregateEvenAndOdd(head);
